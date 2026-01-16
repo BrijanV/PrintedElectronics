@@ -51,4 +51,10 @@ Testing focused on characterizing force-sensing performance, including:
 - Repeatability across multiple loading cycles  
 
 ## Images
+<img width="308" height="857" alt="KicadTopLayer" src="https://github.com/user-attachments/assets/74434447-fc99-4e79-985d-c3a6e52f432d" />
+<img width="304" height="852" alt="kicadBottomLayer" src="https://github.com/user-attachments/assets/094ec621-c1d2-4808-b9d9-8b05b757e60d" />
+<img width="308" height="857" alt="KicadTopLayer" src="https://github.com/user-attachments/assets/bd031fef-10a5-451c-9ad8-4b8b3ca0e292" />
+<img width="308" height="857" alt="arduinowithsenosr" src="https://github.com/user-attachments/assets/1d353608-df44-4a1f-aae7-d4d82f290cd1" />
+<img width="308" height="857" alt="solderedflexpcb" src="https://github.com/user-attachments/assets/0f9b566a-8a41-4df9-909e-5c4061352f61" />
+
 
